@@ -103,6 +103,7 @@ $OPENRESTY_HOME/bin/openresty -s reload
 ## Starting SPA application
 
 ```
+npm install
 ng server --open
 ```
 
